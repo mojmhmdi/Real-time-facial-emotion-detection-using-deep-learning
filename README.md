@@ -11,4 +11,4 @@ Two approaches are considered for emotion detection:
 2- using FER library
 
 In order to train your model,  run train.py and then uncomment line 16 in facial_emotion_detection.py
-* A pretrained model in saved IN dir/models
+* A pretrained model in saved in dir/models
